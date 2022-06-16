@@ -1,0 +1,20 @@
+.main-tables-container {
+    display: flex;
+}
+
+.main-currency-table .main-currency-table__title {
+    margin-top: 48px;
+}
+.arrow-container {
+    visibility: hidden;
+    display: none;
+}
+
+.main-currency-table, .main-currency-table-1 {
+    height: auto;
+}
+
+.product-cards__container {
+    display: flex;
+    flex-wrap: wrap;
+}
